@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TurtleSimpleGUI", "Turtle\TurtleSimpleGUI.pyproj", "{692CACB8-E303-4A4A-9537-E59347C8DE16}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PersonalGUI", "PersonalGUI\PersonalGUI.pyproj", "{A976B8DB-874B-48C2-8FB9-177B2180506C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{692CACB8-E303-4A4A-9537-E59347C8DE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692CACB8-E303-4A4A-9537-E59347C8DE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A976B8DB-874B-48C2-8FB9-177B2180506C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A976B8DB-874B-48C2-8FB9-177B2180506C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
